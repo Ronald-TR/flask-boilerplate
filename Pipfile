@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 flask = "*"
 pyjwt = "*"
+flask-restful = "*"
+flask-sqlalchemy = "*"
+"psycopg2" = "*"
 
 [dev-packages]
 pylint = "*"
